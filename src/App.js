@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import Message from ./Msg.js;
+import Message from './Msg.js';
 
 function App() {
 
